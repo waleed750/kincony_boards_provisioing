@@ -1,0 +1,1688 @@
+{
+  "version": 1,
+  "meta": {
+    "lastScanned": "2026-09-28T08:07:03.088Z",
+    "fileCount": 147,
+    "hits": 0,
+    "misses": 0,
+    "renderedHash": "eb67a1a6139c9e78b63433647f3921aac0e669e89e151a91975c6bb73c8e5fb8",
+    "storeUpdatedAt": "2026-09-28T08:07:03.088Z"
+  },
+  "files": {
+    ".claude/commands/reframe.md": {
+      "description": "Mode: migrate [framework]",
+      "tokens": 551,
+      "hash": "17a75695be5d4629",
+      "size": 2221,
+      "mtimeMs": 1790582823051.3218,
+      "updatedAt": "2026-09-28T08:07:03.065Z",
+      "source": "scan"
+    },
+    ".claude/commands/security-audit.md": {
+      "description": "Layer 1 — Dependencies",
+      "tokens": 510,
+      "hash": "e6f7e0b7337c9c86",
+      "size": 2060,
+      "mtimeMs": 1790582823051.186,
+      "updatedAt": "2026-09-28T08:07:03.065Z",
+      "source": "scan"
+    },
+    ".claude/rules/openwolf.md": {
+      "description": "",
+      "tokens": 328,
+      "hash": "6d735b2c1c54a916",
+      "size": 1323,
+      "mtimeMs": 1790582823043.866,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".claude/settings.json": {
+      "description": "",
+      "tokens": 514,
+      "hash": "f68759bb50af5ee4",
+      "size": 1799,
+      "mtimeMs": 1790582823043.6116,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".codex/config.toml": {
+      "description": "",
+      "tokens": 7,
+      "hash": "d37497c327812159",
+      "size": 24,
+      "mtimeMs": 1790582823048.7441,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".codex/hooks.json": {
+      "description": "",
+      "tokens": 705,
+      "hash": "34f295ff2f50bba2",
+      "size": 2467,
+      "mtimeMs": 1790582823048.6902,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".codex/prompts/reframe.md": {
+      "description": "Mode: migrate [framework]",
+      "tokens": 551,
+      "hash": "17a75695be5d4629",
+      "size": 2221,
+      "mtimeMs": 1790582823051.6663,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".codex/prompts/security-audit.md": {
+      "description": "Layer 1 — Dependencies",
+      "tokens": 510,
+      "hash": "e6f7e0b7337c9c86",
+      "size": 2060,
+      "mtimeMs": 1790582823051.5884,
+      "updatedAt": "2026-09-28T08:07:03.066Z",
+      "source": "scan"
+    },
+    ".dart_tool/dartpad/web_plugin_registrant.dart": {
+      "description": "Flutter web plugin registrant file.",
+      "tokens": 39,
+      "hash": "9bf322a14adec1fc",
+      "size": 135,
+      "mtimeMs": 1790582657171.9749,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".dart_tool/extension_discovery/README.md": {
+      "description": "Project documentation",
+      "tokens": 263,
+      "hash": "3a3bd9e9d04204c3",
+      "size": 1051,
+      "mtimeMs": 1790582677880.7498,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".dart_tool/extension_discovery/vs_code.json": {
+      "description": "",
+      "tokens": 30,
+      "hash": "9e10fcff898fc633",
+      "size": 102,
+      "mtimeMs": 1790582677880.3452,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".dart_tool/package_config.json": {
+      "description": "",
+      "tokens": 1595,
+      "hash": "8d8018ab4d1fa1de",
+      "size": 5580,
+      "mtimeMs": 1790582657081.687,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".dart_tool/package_graph.json": {
+      "description": "",
+      "tokens": 1205,
+      "hash": "03b4e30a04d390b2",
+      "size": 4217,
+      "mtimeMs": 1790582657081.8413,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".dart_tool/version": {
+      "description": "",
+      "tokens": 2,
+      "hash": "67261691e9001202",
+      "size": 6,
+      "mtimeMs": 1790582657085.759,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 199,
+      "hash": "441eaa1de5b3db9f",
+      "size": 746,
+      "mtimeMs": 1790582653131.5444,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".metadata": {
+      "description": "This file tracks properties of this Flutter project.",
+      "tokens": 455,
+      "hash": "adf9465f630921e9",
+      "size": 1706,
+      "mtimeMs": 1790582653172.8245,
+      "updatedAt": "2026-09-28T08:07:03.067Z",
+      "source": "scan"
+    },
+    ".opencode/command/reframe.md": {
+      "description": "Mode: migrate [framework]",
+      "tokens": 551,
+      "hash": "17a75695be5d4629",
+      "size": 2221,
+      "mtimeMs": 1790582823051.5005,
+      "updatedAt": "2026-09-28T08:07:03.068Z",
+      "source": "scan"
+    },
+    ".opencode/command/security-audit.md": {
+      "description": "Layer 1 — Dependencies",
+      "tokens": 510,
+      "hash": "e6f7e0b7337c9c86",
+      "size": 2060,
+      "mtimeMs": 1790582823051.4382,
+      "updatedAt": "2026-09-28T08:07:03.068Z",
+      "source": "scan"
+    },
+    ".opencode/plugin/openwolf/anatomy.ts": {
+      "description": "Exports parseAnatomy, serializeAnatomy, extractDescription, STORE_FILE + 12 more",
+      "tokens": 2922,
+      "hash": "de2a14445289179f",
+      "size": 10257,
+      "mtimeMs": 1790582823049.3923,
+      "updatedAt": "2026-09-28T08:07:03.069Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "parseAnatomy",
+          "kind": "fn",
+          "startLine": 5,
+          "endLine": 28,
+          "tokens": 207
+        },
+        {
+          "name": "serializeAnatomy",
+          "kind": "fn",
+          "startLine": 29,
+          "endLine": 53,
+          "tokens": 240
+        },
+        {
+          "name": "extractDescription",
+          "kind": "fn",
+          "startLine": 54,
+          "endLine": 106,
+          "tokens": 577
+        },
+        {
+          "name": "sha256",
+          "kind": "fn",
+          "startLine": 107,
+          "endLine": 110,
+          "tokens": 33
+        },
+        {
+          "name": "StoreFileEntry",
+          "kind": "section",
+          "startLine": 111,
+          "endLine": 121,
+          "tokens": 83
+        },
+        {
+          "name": "AnatomyStoreData",
+          "kind": "section",
+          "startLine": 122,
+          "endLine": 127,
+          "tokens": 63
+        },
+        {
+          "name": "newStore",
+          "kind": "fn",
+          "startLine": 128,
+          "endLine": 132,
+          "tokens": 64
+        },
+        {
+          "name": "loadStore",
+          "kind": "fn",
+          "startLine": 133,
+          "endLine": 142,
+          "tokens": 92
+        },
+        {
+          "name": "saveStore",
+          "kind": "fn",
+          "startLine": 143,
+          "endLine": 157,
+          "tokens": 162
+        },
+        {
+          "name": "renderStore",
+          "kind": "fn",
+          "startLine": 158,
+          "endLine": 188,
+          "tokens": 380
+        },
+        {
+          "name": "renderToFile",
+          "kind": "fn",
+          "startLine": 189,
+          "endLine": 202,
+          "tokens": 146
+        },
+        {
+          "name": "importFromMarkdown",
+          "kind": "fn",
+          "startLine": 203,
+          "endLine": 227,
+          "tokens": 305
+        },
+        {
+          "name": "loadStoreReconciled",
+          "kind": "fn",
+          "startLine": 228,
+          "endLine": 240,
+          "tokens": 137
+        },
+        {
+          "name": "lockSleep",
+          "kind": "fn",
+          "startLine": 241,
+          "endLine": 244,
+          "tokens": 31
+        },
+        {
+          "name": "withAnatomyLock",
+          "kind": "fn",
+          "startLine": 245,
+          "endLine": 276,
+          "tokens": 373
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/fs.ts": {
+      "description": "Exports getWolfDir, wolfDirExists, readJSON, writeJSON + 6 more",
+      "tokens": 538,
+      "hash": "0193b1022c8e098b",
+      "size": 1881,
+      "mtimeMs": 1790582823049.5293,
+      "updatedAt": "2026-09-28T08:07:03.069Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "getWolfDir",
+          "kind": "fn",
+          "startLine": 5,
+          "endLine": 8,
+          "tokens": 28
+        },
+        {
+          "name": "wolfDirExists",
+          "kind": "fn",
+          "startLine": 9,
+          "endLine": 12,
+          "tokens": 31
+        },
+        {
+          "name": "readJSON",
+          "kind": "fn",
+          "startLine": 13,
+          "endLine": 20,
+          "tokens": 50
+        },
+        {
+          "name": "writeJSON",
+          "kind": "fn",
+          "startLine": 21,
+          "endLine": 33,
+          "tokens": 144
+        },
+        {
+          "name": "readMarkdown",
+          "kind": "fn",
+          "startLine": 34,
+          "endLine": 41,
+          "tokens": 41
+        },
+        {
+          "name": "appendMarkdown",
+          "kind": "fn",
+          "startLine": 42,
+          "endLine": 47,
+          "tokens": 64
+        },
+        {
+          "name": "timeShort",
+          "kind": "fn",
+          "startLine": 48,
+          "endLine": 52,
+          "tokens": 46
+        },
+        {
+          "name": "timestamp",
+          "kind": "fn",
+          "startLine": 53,
+          "endLine": 56,
+          "tokens": 22
+        },
+        {
+          "name": "normalizePath",
+          "kind": "fn",
+          "startLine": 57,
+          "endLine": 60,
+          "tokens": 24
+        },
+        {
+          "name": "estimateTokens",
+          "kind": "fn",
+          "startLine": 61,
+          "endLine": 64,
+          "tokens": 60
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/index.ts": {
+      "description": "Exports OpenWolf",
+      "tokens": 1081,
+      "hash": "5044a1f76c74f535",
+      "size": 3782,
+      "mtimeMs": 1790582823049.668,
+      "updatedAt": "2026-09-28T08:07:03.069Z",
+      "source": "scan"
+    },
+    ".opencode/plugin/openwolf/post-read.ts": {
+      "description": "Exports handlePostRead",
+      "tokens": 629,
+      "hash": "1bc80c56ad0cfd32",
+      "size": 2200,
+      "mtimeMs": 1790582823049.804,
+      "updatedAt": "2026-09-28T08:07:03.069Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "handlePostRead",
+          "kind": "fn",
+          "startLine": 7,
+          "endLine": 57,
+          "tokens": 553
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/post-write.ts": {
+      "description": "Exports handlePostWrite, summarizeEdit, autoDetectBugFix, detectFixPattern",
+      "tokens": 3226,
+      "hash": "02ba6ccd8d82475c",
+      "size": 11300,
+      "mtimeMs": 1790582823049.991,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "handlePostWrite",
+          "kind": "fn",
+          "startLine": 8,
+          "endLine": 39,
+          "tokens": 302
+        },
+        {
+          "name": "updateAnatomy",
+          "kind": "fn",
+          "startLine": 40,
+          "endLine": 86,
+          "tokens": 473
+        },
+        {
+          "name": "appendToMemory",
+          "kind": "fn",
+          "startLine": 87,
+          "endLine": 114,
+          "tokens": 302
+        },
+        {
+          "name": "trackSession",
+          "kind": "fn",
+          "startLine": 115,
+          "endLine": 150,
+          "tokens": 338
+        },
+        {
+          "name": "summarizeEdit",
+          "kind": "fn",
+          "startLine": 151,
+          "endLine": 184,
+          "tokens": 471
+        },
+        {
+          "name": "autoDetectBugFix",
+          "kind": "fn",
+          "startLine": 185,
+          "endLine": 228,
+          "tokens": 523
+        },
+        {
+          "name": "detectFixPattern",
+          "kind": "fn",
+          "startLine": 229,
+          "endLine": 265,
+          "tokens": 610
+        },
+        {
+          "name": "extractChangedLines",
+          "kind": "fn",
+          "startLine": 266,
+          "endLine": 270,
+          "tokens": 88
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/pre-read.ts": {
+      "description": "Exports handlePreRead",
+      "tokens": 685,
+      "hash": "88c051b64b073c6a",
+      "size": 2401,
+      "mtimeMs": 1790582823050.1208,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "handlePreRead",
+          "kind": "fn",
+          "startLine": 7,
+          "endLine": 63,
+          "tokens": 613
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/pre-write.ts": {
+      "description": "Exports handlePreWrite",
+      "tokens": 1167,
+      "hash": "c3b34d216601e76f",
+      "size": 4092,
+      "mtimeMs": 1790582823050.2454,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "tokenize",
+          "kind": "fn",
+          "startLine": 14,
+          "endLine": 21,
+          "tokens": 63
+        },
+        {
+          "name": "handlePreWrite",
+          "kind": "fn",
+          "startLine": 22,
+          "endLine": 35,
+          "tokens": 132
+        },
+        {
+          "name": "checkCerebrum",
+          "kind": "fn",
+          "startLine": 36,
+          "endLine": 65,
+          "tokens": 369
+        },
+        {
+          "name": "BugEntry",
+          "kind": "section",
+          "startLine": 66,
+          "endLine": 74,
+          "tokens": 37
+        },
+        {
+          "name": "checkBugLog",
+          "kind": "fn",
+          "startLine": 75,
+          "endLine": 105,
+          "tokens": 399
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/session.ts": {
+      "description": "Exports getSessionState, setSessionState, deleteSession, handleSessionStart",
+      "tokens": 952,
+      "hash": "dda2df097f6d5874",
+      "size": 3340,
+      "mtimeMs": 1790582823050.3894,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "getSessionState",
+          "kind": "fn",
+          "startLine": 8,
+          "endLine": 11,
+          "tokens": 33
+        },
+        {
+          "name": "setSessionState",
+          "kind": "fn",
+          "startLine": 12,
+          "endLine": 15,
+          "tokens": 33
+        },
+        {
+          "name": "deleteSession",
+          "kind": "fn",
+          "startLine": 16,
+          "endLine": 19,
+          "tokens": 26
+        },
+        {
+          "name": "handleSessionStart",
+          "kind": "fn",
+          "startLine": 20,
+          "endLine": 89,
+          "tokens": 783
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/stop.ts": {
+      "description": "Exports handleStop",
+      "tokens": 1444,
+      "hash": "5f8633a3904ee5ce",
+      "size": 5057,
+      "mtimeMs": 1790582823050.5576,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan",
+      "symbols": [
+        {
+          "name": "handleStop",
+          "kind": "fn",
+          "startLine": 6,
+          "endLine": 35,
+          "tokens": 262
+        },
+        {
+          "name": "checkForMissingBugLogs",
+          "kind": "fn",
+          "startLine": 36,
+          "endLine": 50,
+          "tokens": 165
+        },
+        {
+          "name": "buildLedgerEntry",
+          "kind": "fn",
+          "startLine": 51,
+          "endLine": 114,
+          "tokens": 743
+        },
+        {
+          "name": "appendSessionSummary",
+          "kind": "fn",
+          "startLine": 115,
+          "endLine": 126,
+          "tokens": 218
+        }
+      ]
+    },
+    ".opencode/plugin/openwolf/types.ts": {
+      "description": "Exports FileRead, FileWrite, SessionState, PartialSessionState + 2 more",
+      "tokens": 217,
+      "hash": "47f4dfb03abf55f9",
+      "size": 757,
+      "mtimeMs": 1790582823050.6963,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    ".opencode/plugin/openwolf.ts": {
+      "description": "OpenWolf plugin entry — installed by `openwolf init --agent opencode`.",
+      "tokens": 74,
+      "hash": "a29f91aadb9a324d",
+      "size": 261,
+      "mtimeMs": 1790582823050.7444,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    "AGENTS.md": {
+      "description": "OpenWolf",
+      "tokens": 68,
+      "hash": "8c90778623bf50ac",
+      "size": 271,
+      "mtimeMs": 1790582823048.9548,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    "analysis_options.yaml": {
+      "description": "- android/**",
+      "tokens": 442,
+      "hash": "d6702eea40def1dc",
+      "size": 1547,
+      "mtimeMs": 1790582653156.3552,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    "android/.gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 68,
+      "hash": "b027c9de1011765c",
+      "size": 253,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    "android/app/build.gradle.kts": {
+      "description": "Gradle Kotlin build configuration",
+      "tokens": 481,
+      "hash": "135a34c9dbe0f5d5",
+      "size": 1802,
+      "mtimeMs": 1790582653153.4336,
+      "updatedAt": "2026-09-28T08:07:03.070Z",
+      "source": "scan"
+    },
+    "android/app/src/debug/AndroidManifest.xml": {
+      "description": "",
+      "tokens": 108,
+      "hash": "30b0832ed8b92dfb",
+      "size": 378,
+      "mtimeMs": 1790582653151.9824,
+      "updatedAt": "2026-09-28T08:07:03.071Z",
+      "source": "scan"
+    },
+    "android/app/src/main/AndroidManifest.xml": {
+      "description": "",
+      "tokens": 633,
+      "hash": "76a3e9cbf24e3e64",
+      "size": 2214,
+      "mtimeMs": 1790582653151.706,
+      "updatedAt": "2026-09-28T08:07:03.071Z",
+      "source": "scan"
+    },
+    "android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java": {
+      "description": "Generated file. Do not edit.",
+      "tokens": 148,
+      "hash": "462f4a19778f3fe4",
+      "size": 516,
+      "mtimeMs": 1790582657180.5854,
+      "updatedAt": "2026-09-28T08:07:03.071Z",
+      "source": "scan"
+    },
+    "android/app/src/main/kotlin/com/example/kincony_boards_provisioing/MainActivity.kt": {
+      "description": "Declares MainActivity",
+      "tokens": 38,
+      "hash": "910a87b923a532e1",
+      "size": 140,
+      "mtimeMs": 1790582653153.8677,
+      "updatedAt": "2026-09-28T08:07:03.071Z",
+      "source": "scan"
+    },
+    "android/app/src/main/res/drawable/launch_background.xml": {
+      "description": "",
+      "tokens": 124,
+      "hash": "94433756fe10005d",
+      "size": 434,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.072Z",
+      "source": "scan"
+    },
+    "android/app/src/main/res/drawable-v21/launch_background.xml": {
+      "description": "",
+      "tokens": 126,
+      "hash": "7ca6d5cec2169c5a",
+      "size": 438,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.072Z",
+      "source": "scan"
+    },
+    "android/app/src/main/res/values/styles.xml": {
+      "description": "",
+      "tokens": 285,
+      "hash": "937d7c82f539c72e",
+      "size": 996,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.072Z",
+      "source": "scan"
+    },
+    "android/app/src/main/res/values-night/styles.xml": {
+      "description": "",
+      "tokens": 285,
+      "hash": "8c5bad5152f217e8",
+      "size": 995,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.072Z",
+      "source": "scan"
+    },
+    "android/app/src/profile/AndroidManifest.xml": {
+      "description": "",
+      "tokens": 108,
+      "hash": "30b0832ed8b92dfb",
+      "size": 378,
+      "mtimeMs": 1790582653148.2444,
+      "updatedAt": "2026-09-28T08:07:03.073Z",
+      "source": "scan"
+    },
+    "android/build.gradle.kts": {
+      "description": "Gradle Kotlin build configuration",
+      "tokens": 144,
+      "hash": "6a26dba2cb8dfba1",
+      "size": 537,
+      "mtimeMs": 1790582653153.1687,
+      "updatedAt": "2026-09-28T08:07:03.073Z",
+      "source": "scan"
+    },
+    "android/gradle/wrapper/gradle-wrapper.jar": {
+      "description": "",
+      "tokens": 13666,
+      "hash": "292bf1970b8e0027",
+      "size": 53636,
+      "mtimeMs": 1790582653164.8416,
+      "updatedAt": "2026-09-28T08:07:03.074Z",
+      "source": "scan"
+    },
+    "android/gradle/wrapper/gradle-wrapper.properties": {
+      "description": "",
+      "tokens": 54,
+      "hash": "b690d26223576fe4",
+      "size": 202,
+      "mtimeMs": 1790582653152.4192,
+      "updatedAt": "2026-09-28T08:07:03.074Z",
+      "source": "scan"
+    },
+    "android/gradle.properties": {
+      "description": "",
+      "tokens": 80,
+      "hash": "0f82b18017fba6bb",
+      "size": 300,
+      "mtimeMs": 1790582653152.5923,
+      "updatedAt": "2026-09-28T08:07:03.074Z",
+      "source": "scan"
+    },
+    "android/gradlew": {
+      "description": "#############################################################################",
+      "tokens": 1326,
+      "hash": "ec56c02543666d92",
+      "size": 4971,
+      "mtimeMs": 1790582653165.1294,
+      "updatedAt": "2026-09-28T08:07:03.074Z",
+      "source": "scan"
+    },
+    "android/gradlew.bat": {
+      "description": "",
+      "tokens": 642,
+      "hash": "c13c6e91b9a51778",
+      "size": 2404,
+      "mtimeMs": 1790582653170.0056,
+      "updatedAt": "2026-09-28T08:07:03.074Z",
+      "source": "scan"
+    },
+    "android/kincony_boards_provisioing_android.iml": {
+      "description": "",
+      "tokens": 427,
+      "hash": "90d961bc4ccb4b0a",
+      "size": 1601,
+      "mtimeMs": 1790582653154.1672,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "android/local.properties": {
+      "description": "",
+      "tokens": 25,
+      "hash": "a94821e376a80b4b",
+      "size": 92,
+      "mtimeMs": 1790582653170.7883,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "android/settings.gradle.kts": {
+      "description": "Gradle Kotlin settings",
+      "tokens": 206,
+      "hash": "016759283e88ade6",
+      "size": 770,
+      "mtimeMs": 1790582653152.177,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "CLAUDE.md": {
+      "description": "OpenWolf",
+      "tokens": 57,
+      "hash": "b1ca356fa9d5f3a6",
+      "size": 225,
+      "mtimeMs": 1790582823044.074,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "ios/.gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 152,
+      "hash": "37380775aeb24996",
+      "size": 569,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "ios/Flutter/AppFrameworkInfo.plist": {
+      "description": "",
+      "tokens": 192,
+      "hash": "da12038f9b2688a8",
+      "size": 720,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "ios/Flutter/Debug.xcconfig": {
+      "description": "include \"Generated.xcconfig\"",
+      "tokens": 8,
+      "hash": "a82d7765b37116ee",
+      "size": 30,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/flutter_lldb_helper.py": {
+      "description": "handle_new_rx_page",
+      "tokens": 365,
+      "hash": "05cfe3977fdee593",
+      "size": 1276,
+      "mtimeMs": 1790582657154.6458,
+      "updatedAt": "2026-09-28T08:07:03.075Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/flutter_lldbinit": {
+      "description": "",
+      "tokens": 29,
+      "hash": "eaec5f5268e3a502",
+      "size": 108,
+      "mtimeMs": 1790582657154.3008,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/flutter_native_integration.env": {
+      "description": "",
+      "tokens": 140,
+      "hash": "fd39e65290db9fa8",
+      "size": 524,
+      "mtimeMs": 1790582657159.8186,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/Packages/.packages/FlutterFramework/Package.swift": {
+      "description": "Swift package manifest",
+      "tokens": 124,
+      "hash": "fe677ca6747a3ac9",
+      "size": 464,
+      "mtimeMs": 1790582657186.4033,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift": {
+      "description": "",
+      "tokens": 11,
+      "hash": "8518fb048c299259",
+      "size": 38,
+      "mtimeMs": 1790582657185.8943,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift": {
+      "description": "Swift package manifest",
+      "tokens": 212,
+      "hash": "8698c4c864bd997b",
+      "size": 792,
+      "mtimeMs": 1790582657187.1062,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Sources/FlutterGeneratedPluginSwiftPackage/FlutterGeneratedPluginSwiftPackage.swift": {
+      "description": "",
+      "tokens": 11,
+      "hash": "8518fb048c299259",
+      "size": 38,
+      "mtimeMs": 1790582657186.7896,
+      "updatedAt": "2026-09-28T08:07:03.076Z",
+      "source": "scan"
+    },
+    "ios/Flutter/flutter_export_environment.sh": {
+      "description": "This is a generated file; do not edit or check into version control.",
+      "tokens": 204,
+      "hash": "5688d779f0d30a43",
+      "size": 713,
+      "mtimeMs": 1790582657156.967,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Flutter/Generated.xcconfig": {
+      "description": "This is a generated file; do not edit or check into version control.",
+      "tokens": 180,
+      "hash": "5ccbb302a0060d2e",
+      "size": 674,
+      "mtimeMs": 1790582657156.774,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Flutter/Release.xcconfig": {
+      "description": "include \"Generated.xcconfig\"",
+      "tokens": 8,
+      "hash": "a82d7765b37116ee",
+      "size": 30,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Runner/AppDelegate.swift": {
+      "description": "AppDelegate: application, didInitializeImplicitFlutterEngine",
+      "tokens": 144,
+      "hash": "451c6d9ba0a2b3ff",
+      "size": 539,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json": {
+      "description": "",
+      "tokens": 720,
+      "hash": "3b1e214f466ffedf",
+      "size": 2519,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json": {
+      "description": "",
+      "tokens": 112,
+      "hash": "ccc7950fd5f5b820",
+      "size": 391,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md": {
+      "description": "Project documentation",
+      "tokens": 84,
+      "hash": "a985b626c4f7546a",
+      "size": 336,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.077Z",
+      "source": "scan"
+    },
+    "ios/Runner/Base.lproj/LaunchScreen.storyboard": {
+      "description": "",
+      "tokens": 634,
+      "hash": "857e61203b3deafb",
+      "size": 2377,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/Base.lproj/Main.storyboard": {
+      "description": "",
+      "tokens": 428,
+      "hash": "fd367b6c43006d61",
+      "size": 1605,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/GeneratedPluginRegistrant.h": {
+      "description": "clang-format off",
+      "tokens": 108,
+      "hash": "a5f88cc6415d2e63",
+      "size": 378,
+      "mtimeMs": 1790582657183.114,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/GeneratedPluginRegistrant.m": {
+      "description": "clang-format off",
+      "tokens": 60,
+      "hash": "4707ddc36a164aed",
+      "size": 225,
+      "mtimeMs": 1790582657183.4058,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/Info.plist": {
+      "description": "",
+      "tokens": 600,
+      "hash": "a02cd6e1c8950d0c",
+      "size": 2250,
+      "mtimeMs": 1790582653111.2256,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/Runner-Bridging-Header.h": {
+      "description": "import \"GeneratedPluginRegistrant.h\"",
+      "tokens": 11,
+      "hash": "1a8d11d01d1cc92c",
+      "size": 38,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner/SceneDelegate.swift": {
+      "description": "Declares SceneDelegate",
+      "tokens": 21,
+      "hash": "add68b905971dedf",
+      "size": 76,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcodeproj/project.pbxproj": {
+      "description": "!$*UTF8*$!",
+      "tokens": 6917,
+      "hash": "a1774148c84fb06b",
+      "size": 25938,
+      "mtimeMs": 1790582653128.081,
+      "updatedAt": "2026-09-28T08:07:03.078Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata": {
+      "description": "",
+      "tokens": 36,
+      "hash": "7f3b00b5c3fdb452",
+      "size": 135,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist": {
+      "description": "",
+      "tokens": 64,
+      "hash": "dfa0f9bb85b95ccb",
+      "size": 238,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings": {
+      "description": "",
+      "tokens": 61,
+      "hash": "11b247bc6796892d",
+      "size": 226,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme": {
+      "description": "",
+      "tokens": 1258,
+      "hash": "9fbce429f5624356",
+      "size": 4717,
+      "mtimeMs": 1790582653128.8499,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcworkspace/contents.xcworkspacedata": {
+      "description": "",
+      "tokens": 41,
+      "hash": "46c3c9702ff7c558",
+      "size": 152,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist": {
+      "description": "",
+      "tokens": 64,
+      "hash": "dfa0f9bb85b95ccb",
+      "size": 238,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings": {
+      "description": "",
+      "tokens": 61,
+      "hash": "11b247bc6796892d",
+      "size": 226,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "ios/RunnerTests/RunnerTests.swift": {
+      "description": "RunnerTests: testExample",
+      "tokens": 76,
+      "hash": "5e8f4908dacea6f2",
+      "size": 285,
+      "mtimeMs": 1790582653110.276,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "kincony_boards_provisioing.iml": {
+      "description": "",
+      "tokens": 225,
+      "hash": "078556ebd66f23ee",
+      "size": 842,
+      "mtimeMs": 1790582653131.2534,
+      "updatedAt": "2026-09-28T08:07:03.079Z",
+      "source": "scan"
+    },
+    "lib/main.dart": {
+      "description": "Stateful widget: MyApp",
+      "tokens": 1373,
+      "hash": "525df2a854f3c54c",
+      "size": 4805,
+      "mtimeMs": 1790582653155.7974,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/.gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 5,
+      "hash": "5ded4f1a9d10d34b",
+      "size": 18,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 1198,
+      "hash": "3e8d24ac6f0c55ed",
+      "size": 4791,
+      "mtimeMs": 1790582653161.8408,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/flutter/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 704,
+      "hash": "787189e2623313cf",
+      "size": 2815,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/flutter/generated_plugin_registrant.cc": {
+      "description": "clang-format off",
+      "tokens": 43,
+      "hash": "7861b227b10a10cc",
+      "size": 161,
+      "mtimeMs": 1790582657181.4424,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/flutter/generated_plugin_registrant.h": {
+      "description": "clang-format off",
+      "tokens": 87,
+      "hash": "00f93bb5b1faefde",
+      "size": 303,
+      "mtimeMs": 1790582657181.1973,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/flutter/generated_plugins.cmake": {
+      "description": "",
+      "tokens": 198,
+      "hash": "d5aaa52ef8594d31",
+      "size": 739,
+      "mtimeMs": 1790582657181.71,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/runner/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 244,
+      "hash": "8cdcfd911e770fd7",
+      "size": 974,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/runner/main.cc": {
+      "description": "include \"my_application.h\"",
+      "tokens": 48,
+      "hash": "ea23f7cdf74091d6",
+      "size": 180,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.080Z",
+      "source": "scan"
+    },
+    "linux/runner/my_application.cc": {
+      "description": "include \"my_application.h\"",
+      "tokens": 1465,
+      "hash": "91cb8d81d417d503",
+      "size": 5491,
+      "mtimeMs": 1790582653160.6648,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "linux/runner/my_application.h": {
+      "description": "my_application_new:",
+      "tokens": 129,
+      "hash": "a4218d7ac0db8a9a",
+      "size": 451,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/.gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 24,
+      "hash": "ffec1a0bbd705471",
+      "size": 89,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/flutter_export_environment.sh": {
+      "description": "This is a generated file; do not edit or check into version control.",
+      "tokens": 194,
+      "hash": "653f15a95ef13db8",
+      "size": 677,
+      "mtimeMs": 1790582657160.4126,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/flutter_native_integration.env": {
+      "description": "",
+      "tokens": 133,
+      "hash": "3196c215f8e8f4a0",
+      "size": 497,
+      "mtimeMs": 1790582657162.8555,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/Flutter-Generated.xcconfig": {
+      "description": "This is a generated file; do not edit or check into version control.",
+      "tokens": 152,
+      "hash": "46271dc1a84a86e9",
+      "size": 569,
+      "mtimeMs": 1790582657160.2944,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Package.swift": {
+      "description": "Swift package manifest",
+      "tokens": 124,
+      "hash": "fe677ca6747a3ac9",
+      "size": 464,
+      "mtimeMs": 1790582657195.9724,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift": {
+      "description": "",
+      "tokens": 11,
+      "hash": "8518fb048c299259",
+      "size": 38,
+      "mtimeMs": 1790582657195.7927,
+      "updatedAt": "2026-09-28T08:07:03.081Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift": {
+      "description": "Swift package manifest",
+      "tokens": 212,
+      "hash": "8b8c16705c430fc3",
+      "size": 794,
+      "mtimeMs": 1790582657196.4333,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Sources/FlutterGeneratedPluginSwiftPackage/FlutterGeneratedPluginSwiftPackage.swift": {
+      "description": "",
+      "tokens": 11,
+      "hash": "8518fb048c299259",
+      "size": 38,
+      "mtimeMs": 1790582657196.2273,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Flutter/Flutter-Debug.xcconfig": {
+      "description": "include \"ephemeral/Flutter-Generated.xcconfig\"",
+      "tokens": 13,
+      "hash": "62290ad8e938bf41",
+      "size": 48,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Flutter/Flutter-Release.xcconfig": {
+      "description": "include \"ephemeral/Flutter-Generated.xcconfig\"",
+      "tokens": 13,
+      "hash": "62290ad8e938bf41",
+      "size": 48,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Flutter/GeneratedPluginRegistrant.swift": {
+      "description": "",
+      "tokens": 40,
+      "hash": "9ebc54b4d21464b8",
+      "size": 147,
+      "mtimeMs": 1790582657183.7122,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Runner/AppDelegate.swift": {
+      "description": "AppDelegate: applicationShouldTerminateAfterLastWindowClosed, applicationSupportsSecureRestorableState",
+      "tokens": 83,
+      "hash": "ce9dbe45a57c59e8",
+      "size": 311,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json": {
+      "description": "",
+      "tokens": 369,
+      "hash": "bc6ba8105ca69651",
+      "size": 1291,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.082Z",
+      "source": "scan"
+    },
+    "macos/Runner/Base.lproj/MainMenu.xib": {
+      "description": "",
+      "tokens": 6327,
+      "hash": "be9e9ef8469d3262",
+      "size": 23729,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Configs/AppInfo.xcconfig": {
+      "description": "Application-level settings for the Runner target.",
+      "tokens": 170,
+      "hash": "1bc3dc64c988e5db",
+      "size": 637,
+      "mtimeMs": 1790582653142.7678,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Configs/Debug.xcconfig": {
+      "description": "include \"../../Flutter/Flutter-Debug.xcconfig\"",
+      "tokens": 21,
+      "hash": "8067d533ef659376",
+      "size": 77,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Configs/Release.xcconfig": {
+      "description": "include \"../../Flutter/Flutter-Release.xcconfig\"",
+      "tokens": 22,
+      "hash": "7a6a4b4d973a2305",
+      "size": 79,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Configs/Warnings.xcconfig": {
+      "description": "",
+      "tokens": 155,
+      "hash": "0e341a392b16ad30",
+      "size": 580,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/DebugProfile.entitlements": {
+      "description": "",
+      "tokens": 93,
+      "hash": "ebaab2b9992173de",
+      "size": 348,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Info.plist": {
+      "description": "",
+      "tokens": 283,
+      "hash": "f253e89c512b3a9a",
+      "size": 1060,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/MainFlutterWindow.swift": {
+      "description": "MainFlutterWindow: awakeFromNib",
+      "tokens": 104,
+      "hash": "65c9613c11bcedfa",
+      "size": 388,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.083Z",
+      "source": "scan"
+    },
+    "macos/Runner/Release.entitlements": {
+      "description": "",
+      "tokens": 64,
+      "hash": "b746c74b201e6af4",
+      "size": 240,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/Runner.xcodeproj/project.pbxproj": {
+      "description": "!$*UTF8*$!",
+      "tokens": 7489,
+      "hash": "3144820faa0a54a3",
+      "size": 28082,
+      "mtimeMs": 1790582653146.2964,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist": {
+      "description": "",
+      "tokens": 64,
+      "hash": "dfa0f9bb85b95ccb",
+      "size": 238,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme": {
+      "description": "",
+      "tokens": 1243,
+      "hash": "9d2a900f809e7ea9",
+      "size": 4660,
+      "mtimeMs": 1790582653146.8286,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/Runner.xcworkspace/contents.xcworkspacedata": {
+      "description": "",
+      "tokens": 41,
+      "hash": "46c3c9702ff7c558",
+      "size": 152,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist": {
+      "description": "",
+      "tokens": 64,
+      "hash": "dfa0f9bb85b95ccb",
+      "size": 238,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "macos/RunnerTests/RunnerTests.swift": {
+      "description": "RunnerTests: testExample",
+      "tokens": 78,
+      "hash": "6bc180bc77c7def7",
+      "size": 290,
+      "mtimeMs": 1790582653135.9363,
+      "updatedAt": "2026-09-28T08:07:03.084Z",
+      "source": "scan"
+    },
+    "pubspec.yaml": {
+      "description": "Dart/Flutter package manifest",
+      "tokens": 1102,
+      "hash": "f2eba5c90ac6ed40",
+      "size": 3854,
+      "mtimeMs": 1790582653154.6958,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "README.md": {
+      "description": "Project documentation",
+      "tokens": 162,
+      "hash": "dbe1da78b431afe3",
+      "size": 648,
+      "mtimeMs": 1790582653154.9822,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "test/widget_test.dart": {
+      "description": "This is a basic Flutter widget test.",
+      "tokens": 308,
+      "hash": "5fd84d5c2f94cccb",
+      "size": 1077,
+      "mtimeMs": 1790582653162.2512,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "web/index.html": {
+      "description": "kincony_boards_provisioing",
+      "tokens": 416,
+      "hash": "7cb806a97a338972",
+      "size": 1557,
+      "mtimeMs": 1790582653132.2683,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "web/manifest.json": {
+      "description": "",
+      "tokens": 271,
+      "hash": "174beac2e31e2f91",
+      "size": 948,
+      "mtimeMs": 1790582653132.5608,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "windows/.gitignore": {
+      "description": "Git ignore rules",
+      "tokens": 78,
+      "hash": "96345475f1a3c66b",
+      "size": 291,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "windows/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 1047,
+      "hash": "367b1b10c4d7132a",
+      "size": 4188,
+      "mtimeMs": 1790582653108.1494,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "windows/flutter/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 936,
+      "hash": "1fe418971b6f41bb",
+      "size": 3742,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "windows/flutter/generated_plugin_registrant.cc": {
+      "description": "clang-format off",
+      "tokens": 44,
+      "hash": "82e02567f2faf5e7",
+      "size": 164,
+      "mtimeMs": 1790582657182.4124,
+      "updatedAt": "2026-09-28T08:07:03.085Z",
+      "source": "scan"
+    },
+    "windows/flutter/generated_plugin_registrant.h": {
+      "description": "clang-format off",
+      "tokens": 87,
+      "hash": "dbc11635d7b1ba18",
+      "size": 302,
+      "mtimeMs": 1790582657182.123,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/flutter/generated_plugins.cmake": {
+      "description": "",
+      "tokens": 199,
+      "hash": "286346b0d5303dc6",
+      "size": 743,
+      "mtimeMs": 1790582657182.6782,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/CMakeLists.txt": {
+      "description": "CMake build configuration",
+      "tokens": 449,
+      "hash": "34119ec122e36940",
+      "size": 1796,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/flutter_window.cpp": {
+      "description": "include \"flutter_window.h\"",
+      "tokens": 607,
+      "hash": "dd185884c0b5301d",
+      "size": 2122,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/flutter_window.h": {
+      "description": "ifndef RUNNER_FLUTTER_WINDOW_H_",
+      "tokens": 266,
+      "hash": "38e0fcd3a0b83895",
+      "size": 928,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/main.cpp": {
+      "description": "include <flutter/dart_project.h>",
+      "tokens": 366,
+      "hash": "5559f70f5b401df8",
+      "size": 1279,
+      "mtimeMs": 1790582653104.0908,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/resource.h": {
+      "description": "{{NO_DEPENDENCIES}}",
+      "tokens": 124,
+      "hash": "1fa98588b0456159",
+      "size": 432,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.086Z",
+      "source": "scan"
+    },
+    "windows/runner/runner.exe.manifest": {
+      "description": "",
+      "tokens": 161,
+      "hash": "825d243e9fa15426",
+      "size": 602,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    },
+    "windows/runner/Runner.rc": {
+      "description": "Microsoft Visual C++ generated resource script.",
+      "tokens": 827,
+      "hash": "449742547e4282d4",
+      "size": 3101,
+      "mtimeMs": 1790582653101.8264,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    },
+    "windows/runner/utils.cpp": {
+      "description": "include \"utils.h\"",
+      "tokens": 620,
+      "hash": "6c2c87106b4b29d5",
+      "size": 2168,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    },
+    "windows/runner/utils.h": {
+      "description": "ifndef RUNNER_UTILS_H_",
+      "tokens": 192,
+      "hash": "95a7f7dddb832997",
+      "size": 672,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    },
+    "windows/runner/win32_window.cpp": {
+      "description": "include \"win32_window.h\"",
+      "tokens": 2439,
+      "hash": "9065f31ccf746cf8",
+      "size": 8534,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    },
+    "windows/runner/win32_window.h": {
+      "description": "ifndef RUNNER_WIN32_WINDOW_H_",
+      "tokens": 1007,
+      "hash": "7dd03746b19dcf35",
+      "size": 3522,
+      "mtimeMs": 1782110984000,
+      "updatedAt": "2026-09-28T08:07:03.087Z",
+      "source": "scan"
+    }
+  }
+}
